@@ -52,4 +52,5 @@ char* mysteryExplode (const char* str) {
         }
     }
     printf("%s \n", finalWord);
+    return finalWord;
 }
