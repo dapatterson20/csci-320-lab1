@@ -21,7 +21,9 @@ This lab is templated at
 https://github.com/mrasamny/csci-320-lab1
 ```
 
-Click the <span style="background-color:green;color:white;">Use as template</span> button to copy the repo to your GitHub account and **clone** your repo on **your VM**.  You should commit your code as you work on your program and push it systematically to your repo.  **Your finalized product should be on your GitHub repo**.
+Click the <span style="background-color:#444444;color:white;">Fork</span> button to fork a copy of the repo to your GitHub account and **clone** your repo on **your VM**.  You should commit your code as you work on your program and push it systematically to your repo.  **Your finalized product should be on your GitHub repo**.  Submissions that have only one push will not be graded!
+
+Please complete this <a href="https://forms.office.com/r/886Td0Frxv">GitHub Information Form</a> so that your instructor can correlate your name with your GitHub username.
 
 Included in the repo are,
 
@@ -63,5 +65,5 @@ Your program must perform the following:
 
 ## Submission
 
-Your are to submit your GitHub repo link on Blackboard.  Your repo should show no submissions after the submissions deadline.  Any submissions after the deadline will result in an immediate zero (0) on the assignment.  If your **program does not compile, you will receive a zero (0) on the assignment**.
+Your are to submit your GitHub repo link on Blackboard.  Your repo should show no submissions after the submissions deadline.  Any submissions after the deadline will result in an immediate zero (0) on the assignment.  If your **program does not compile, you will receive a zero (0) on the assignment**.  A rubric is provided with the assignment on Blackboard.
 
